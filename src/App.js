@@ -4,7 +4,7 @@ import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import Header from './layout/Header';
 import HomeProduct from './Product/HomeProduct';
 import ViewProduct from './Product/ViewProduct';
-import Login from './pages/Login';
+import Login from './Login/Login';
 import ViewCart from './Cart/ViewCart';
 import Navbar from './layout/Navbar/Navbar';
 import Order from './Order/Order';
